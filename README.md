@@ -34,7 +34,9 @@
   Pretendo experimentar os diversos sabores que o incrível mundo da computação pode me ofereçer. Entender as diversas abstrações para adquirir bagagem de conhecimento 🧠
 </p>
 
+[![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonComar&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Contato</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-emerson.hcomar@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emerson.hcomar@gmail.com)](mailto:emerson.hcomar@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/EmersonComar)
+[![GitHub](https://img.shields.io/github/followers/?label=follow&style=social)](https://github.com/EmersonComar)
