@@ -39,4 +39,3 @@
 <h3>Contato</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-emerson.hcomar@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emerson.hcomar@gmail.com)](mailto:emerson.hcomar@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/?label=follow&style=social)](https://github.com/EmersonComar)
