@@ -26,12 +26,9 @@
 <h3>Sobre Planos de Estudos e desenvolvimento de Carreira</h3>
 
 <p>
-  Ainda estou engatinhando no mundo da computação. Acredito que a construção de um conhecimento sólido passa pelo aprendizado correto das bases.
-  Aprender como as coisas funcionam por baixo dos panos nos permite ter maior compreensão sobre as tecnologias e nos dará maior controle sobre elas.
-</p>
+  Estou dando os primeiros passos no universo da computação. Acredito firmemente que construir uma base sólida é essencial para o aprendizado. Compreender o funcionamento interno das coisas proporciona uma visão mais profunda das tecnologias, conferindo-nos maior controle sobre elas.
 
-<p>
-  Pretendo experimentar os diversos sabores que o incrível mundo da computação pode me ofereçer. Entender as diversas abstrações para adquirir bagagem de conhecimento 🧠
+Tenho a intenção de explorar as diversas nuances que o fascinante mundo da computação tem a oferecer. Desvendar as diferentes abstrações é parte integrante da minha jornada para adquirir um conhecimento sólido 🧠
 </p>
 
 [![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonComar&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
