@@ -3,9 +3,8 @@
 <h2>Sobre mim</h2>
 
 - 👋 Olá, meu nome é Emerson Henrique.
-- 🎓 Atualmente estudo Bacharel Ciência da Computação - UFFS, 2º Semestre.
-- 💼 Trabalho como Analista de Suporte Computacional na IXC Soft
-- 🌱 Focando os estudos nos seguintes campos: Fundamento Computacionais, Linux e Redes de Computadores.
+- 🎓 Atualmente estudo Bacharel Ciência da Computação - UFFS.
+- 🌱 Focando os estudos nos seguintes campos: Fundamento Computacional, Linux e Redes de Computadores.
 
 <h3>Áreas de Interesse</h3>
 
